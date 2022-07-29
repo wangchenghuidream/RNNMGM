@@ -1,0 +1,5 @@
+guacamol_train: 1270000,for pretrain
+Dm:303
+Ds9:500000
+pIC9_train_2:100
+pIC9_train_2_aug:500000
