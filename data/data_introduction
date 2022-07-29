@@ -1,6 +1,6 @@
-guacamol_train: 1270000 molecules from ChEMBL dataset,for pretrain
-Dm:303 energetic molecules
-Ds9:500000 molecules augment by Dm
+guacamol_train: 1270000 molecules from ChEMBL dataset,for pretrain in comparative experiment 
+Dm:303 energetic molecules for fine-tune process 
+Ds9:500000 molecules augment by Dm,for pretrain
 pIC9_train_2:100 moleculer with pCI9>9
 pIC9_train_2_aug:500000 moleculer augument by pIC9_train_2
 gen_20000_d0:generate moleculer by model trained on Dm and Ds9
